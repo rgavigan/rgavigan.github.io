@@ -1,4 +1,4 @@
-## My Simple Portfolio
-After realizing I am starting to forget my past experiences, I figured I may as well put everything into a simple site and make it easier for myself.
+## Portfolio Website
+Contains my personal portfolio for consolidation of projects, experience, etc.
 
-That's all!
+Static website hosted on GitHub Pages
