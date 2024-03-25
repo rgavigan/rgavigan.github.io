@@ -1,4 +1,4 @@
 ## Portfolio Website
-Contains my personal portfolio for consolidation of projects, experience, etc.
+Portfolio site that I neglect to update regularly
 
 Static website hosted on GitHub Pages
